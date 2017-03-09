@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DemoScriptShp" GeneratedClassName="Configuraciones">
+  <Profiles />
+  <Settings>
+    <Setting Name="url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://redcomciber.sharepoint.com/sites/PruebaCHG</Value>
+    </Setting>
+    <Setting Name="admin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cgronseth@redcomciber.onmicrosoft.com</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Redcom2012</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
